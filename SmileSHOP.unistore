@@ -1,0 +1,38 @@
+{
+  "storeInfo": {
+    "title": "SmileSHOP",
+    "author": "SimsCrafterZ",
+    "description": "An online database to install SmileBASIC community programs",
+    "url": "https://simscrafterz.github.io/SmileSHOP/SmileSHOP.unistore",
+    "file": "SmileSHOP.unistore",
+    "sheetURL": "https://db.universal-team.net/unistore/universal-db.t3x",
+    "sheet": "universal-db.t3x",
+    "bg_index": 1,
+    "bg_sheet": 0,
+    "revision": 1,
+    "version": 4
+  },
+  "storeContent": [
+    {
+      "info": {
+        "title": "TEST",
+        "author": "SimsCrafterZ",
+        "description": "Test program for SmileSHOP",
+        "category": ["utility"],
+        "console": ["3DS"],
+        "icon_index": 0,
+        "sheet_index": 0,
+        "last_updated": "2026-06-29 at 12:00 (UTC)",
+        "license": "Unlicensed",
+        "version": "0.1.0"
+      },
+      "TEST": [
+        {
+          "type": "downloadFile",
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/TEST.txt",
+          "output": "sdmc:/SmileSHOP/TEST.txt"
+        }
+      ]
+    }
+  ]
+}
