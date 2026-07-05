@@ -22,15 +22,25 @@
         "console": ["3DS"],
         "icon_index": 0,
         "sheet_index": 0,
-        "last_updated": "2026-06-29 at 12:00 (UTC)",
+        "last_updated": "2026-07-05 at 14:47 (UTC)",
         "license": "Unlicensed",
         "version": "0.1.0"
       },
       "TEST": [
         {
           "type": "downloadFile",
-          "file": "https://simscrafterz.github.io/SmileSHOP/files/TEST.txt",
-          "output": "sdmc:/SmileSHOP/TEST.txt"
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/TMARIO",
+          "output": "sdmc:/SmileSHOP/TMARIO"
+        },
+        {
+          "type": "downloadFile",
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/BBGMARIO",
+          "output": "sdmc:/SmileSHOP/BBGMARIO"
+        },
+        {
+          "type": "downloadFile",
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/BSPMARIO",
+          "output": "sdmc:/SmileSHOP/BSPMARIO"
         }
       ]
     }
