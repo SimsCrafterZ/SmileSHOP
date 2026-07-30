@@ -29,18 +29,18 @@
       "Spooky Maze": [
         {
           "type": "downloadFile",
-          "file": "https://simscrafterz.github.io/SmileSHOP/files/spooky_maze",
-          "output": "sdmc:/SmileSHOP/spooky_maze"
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/spooky_maze/TSPOOKYMAZE.PRG",
+          "output": "sdmc:/SmileSHOP/spooky_maze/TSPOOKYMAZE.PRG"
         },
         {
           "type": "downloadFile",
-          "file": "https://simscrafterz.github.io/SmileSHOP/files/spooky_maze",
-          "output": "sdmc:/SmileSHOP/spooky_maze"
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/spooky_maze/TRAYCAST.LIB",
+          "output": "sdmc:/SmileSHOP/spooky_maze/TRAYCAST.LIB"
         },
         {
           "type": "downloadFile",
-          "file": "https://simscrafterz.github.io/SmileSHOP/files/spooky_maze",
-          "output": "sdmc:/SmileSHOP/spooky_maze"
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/spooky_maze/BGATE.GSV",
+          "output": "sdmc:/SmileSHOP/spooky_maze/BGATE.GSV"
         }
       ]
     }
