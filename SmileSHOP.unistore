@@ -15,10 +15,10 @@
   "storeContent": [
     {
       "info": {
-        "title": "Test",
-        "author": "SimsCrafterZ",
-        "description": "Test program for SmileSHOP",
-        "category": ["utility"],
+        "title": "Spooky Maze",
+        "author": "calc84maniac",
+        "description": "...",
+        "category": ["game"],
         "console": ["3DS"],
         "icon_index": 0,
         "sheet_index": 0,
@@ -26,21 +26,21 @@
         "license": "Unlicensed",
         "version": "0.1.0"
       },
-      "Test": [
+      "Spooky Maze": [
         {
           "type": "downloadFile",
-          "file": "https://simscrafterz.github.io/SmileSHOP/files/TMARIO",
-          "output": "sdmc:/SmileSHOP/TMARIO"
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/spooky_maze",
+          "output": "sdmc:/SmileSHOP/spooky_maze"
         },
         {
           "type": "downloadFile",
-          "file": "https://simscrafterz.github.io/SmileSHOP/files/BBGMARIO",
-          "output": "sdmc:/SmileSHOP/BBGMARIO"
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/spooky_maze",
+          "output": "sdmc:/SmileSHOP/spooky_maze"
         },
         {
           "type": "downloadFile",
-          "file": "https://simscrafterz.github.io/SmileSHOP/files/BSPMARIO",
-          "output": "sdmc:/SmileSHOP/BSPMARIO"
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/spooky_maze",
+          "output": "sdmc:/SmileSHOP/spooky_maze"
         }
       ]
     }
