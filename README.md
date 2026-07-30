@@ -6,4 +6,4 @@ how to install it?<br>
 How to use it?<br>
 It's easy! Install the program you want and you will get a "program name" folder in sd/SmileSHOP/, example: sd/SmileSHOP/spooky_maze<br>
 Then move all this folder into the "root" of SmileBASIC using sbfm (SmileBASIC file manager), available here: https://github.com/nnn1590/lpp-3ds-sbfm<br><br>
-You can share your programs here: https://github.com/SimsCrafterZ/SmileSHOP/issues/1
+You can share your programs here: https://github.com/SimsCrafterZ/SmileSHOP/pulls
