@@ -9,7 +9,7 @@
     "sheet": "universal-db.t3x",
     "bg_index": 1,
     "bg_sheet": 0,
-    "revision": 2,
+    "revision": 3,
     "version": 1
   },
   "storeContent": [
@@ -53,7 +53,7 @@
         "console": ["3DS"],
         "icon_index": 0,
         "sheet_index": 0,
-        "last_updated": "0",
+        "last_updated": "2019/03/07",
         "license": "Unlicensed",
         "version": "2.0.0"
       },
