@@ -9,8 +9,8 @@
     "sheet": "universal-db.t3x",
     "bg_index": 1,
     "bg_sheet": 0,
-    "revision": 6,
-    "version": 2
+    "revision": 100,
+    "version": 1
   },
   "storeContent": [
     {
@@ -75,7 +75,7 @@
         "title": "test",
         "author": "test",
         "description": "test",
-        "category": ["test"],
+        "category": ["game"],
         "console": ["3DS"],
         "icon_index": 2,
         "sheet_index": 0,
@@ -86,8 +86,8 @@
       "test": [
         {
           "type": "downloadFile",
-          "file": "test",
-          "output": "test"
+          "file": "https://file.test",
+          "output": "sdmc:/file.test"
         }
       ]
     }
