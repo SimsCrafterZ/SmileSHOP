@@ -43,6 +43,48 @@
           "output": "sdmc:/SmileSHOP/spooky_maze/BGATE.GSV"
         }
       ]
+    },
+    {
+      "info": {
+        "title": "Super bearland",
+        "author": "kantackistan",
+        "description": "test",
+        "category": ["game"],
+        "console": ["3DS"],
+        "icon_index": 0,
+        "sheet_index": 0,
+        "last_updated": "test",
+        "license": "Unlicensed",
+        "version": "test"
+      },
+      "test": [
+        {
+          "type": "downloadFile",
+          "file": "test",
+          "output": "test"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "test",
+        "author": "test",
+        "description": "test",
+        "category": ["test"],
+        "console": ["3DS"],
+        "icon_index": 2,
+        "sheet_index": 0,
+        "last_updated": "test",
+        "license": "test",
+        "version": "test"
+      },
+      "test": [
+        {
+          "type": "downloadFile",
+          "file": "test",
+          "output": "test"
+        }
+      ]
     }
   ]
 }
