@@ -57,11 +57,16 @@
         "license": "Unlicensed",
         "version": "2.0.0"
       },
-      "test": [
+      "Super Bearland": [
         {
           "type": "downloadFile",
-          "file": "test",
-          "output": "test"
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/super_bearland",
+          "output": "sdmc:/SmileSHOP/super_bearland"
+        },
+        {
+          "type": "downloadFile",
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/super_bearland",
+          "output": "sdmc:/SmileSHOP/super_bearland"
         }
       ]
     },
