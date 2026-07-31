@@ -60,13 +60,13 @@
       "Super Bearland": [
         {
           "type": "downloadFile",
-          "file": "https://simscrafterz.github.io/SmileSHOP/files/super_bearland",
-          "output": "sdmc:/SmileSHOP/super_bearland"
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/super_bearland/TBEARLAND",
+          "output": "sdmc:/SmileSHOP/super_bearland/TBEARLAND"
         },
         {
           "type": "downloadFile",
-          "file": "https://simscrafterz.github.io/SmileSHOP/files/super_bearland",
-          "output": "sdmc:/SmileSHOP/super_bearland"
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/super_bearland/BGRAPHICS",
+          "output": "sdmc:/SmileSHOP/super_bearland/BGRAPHICS"
         }
       ]
     },
