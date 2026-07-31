@@ -24,7 +24,7 @@
         "sheet_index": 0,
         "last_updated": "2015/10/15",
         "license": "Unlicensed",
-        "version": "0.1.0"
+        "version": "0.5.0"
       },
       "Spooky Maze": [
         {
@@ -46,16 +46,16 @@
     },
     {
       "info": {
-        "title": "Super bearland",
+        "title": "Super Bearland",
         "author": "kantackistan",
         "description": "test",
         "category": ["game"],
         "console": ["3DS"],
         "icon_index": 0,
         "sheet_index": 0,
-        "last_updated": "test",
+        "last_updated": "0",
         "license": "Unlicensed",
-        "version": "test"
+        "version": "2.0.0"
       },
       "test": [
         {
