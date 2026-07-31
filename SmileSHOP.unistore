@@ -30,17 +30,17 @@
         {
           "type": "downloadFile",
           "file": "https://simscrafterz.github.io/SmileSHOP/files/spooky_maze/TSPOOKYMAZE.PRG",
-          "output": "sdmc:/SmileSHOP/spooky_maze/TSPOOKYMAZE.PRG"
+          "output": "sdmc:/SmileSHOP/RAYCASTER/TSPOOKYMAZE.PRG"
         },
         {
           "type": "downloadFile",
           "file": "https://simscrafterz.github.io/SmileSHOP/files/spooky_maze/TRAYCAST.LIB",
-          "output": "sdmc:/SmileSHOP/spooky_maze/TRAYCAST.LIB"
+          "output": "sdmc:/SmileSHOP/RAYCASTER/TRAYCAST.LIB"
         },
         {
           "type": "downloadFile",
           "file": "https://simscrafterz.github.io/SmileSHOP/files/spooky_maze/BGATE.GSV",
-          "output": "sdmc:/SmileSHOP/spooky_maze/BGATE.GSV"
+          "output": "sdmc:/SmileSHOP/RAYCASTER/BGATE.GSV"
         }
       ]
     },
@@ -61,12 +61,12 @@
         {
           "type": "downloadFile",
           "file": "https://simscrafterz.github.io/SmileSHOP/files/super_bearland/TBEARLAND",
-          "output": "sdmc:/SmileSHOP/super_bearland/TBEARLAND"
+          "output": "sdmc:/SmileSHOP/BEARLAND/TBEARLAND"
         },
         {
           "type": "downloadFile",
           "file": "https://simscrafterz.github.io/SmileSHOP/files/super_bearland/BGRAPHICS",
-          "output": "sdmc:/SmileSHOP/super_bearland/BGRAPHICS"
+          "output": "sdmc:/SmileSHOP/BEARLAND/BGRAPHICS"
         }
       ]
     },
