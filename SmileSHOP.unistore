@@ -9,7 +9,7 @@
     "sheet": "universal-db.t3x",
     "bg_index": 1,
     "bg_sheet": 0,
-    "revision": 100,
+    "revision": 101,
     "version": 3
   },
   "storeContent": [
@@ -20,7 +20,7 @@
         "description": "Happy Halloween! It's time for a raycaster game! This is a survival game filled with skellingtons, explosions, and of course, cats. Find the key and escape the maze, and if you rescue a cat you may get a reward... but watch your back! You never know what may be lurking in the shadows...",
         "category": ["game"],
         "console": ["3DS"],
-        "icon_index": 0,
+        "icon_index": 2,
         "sheet_index": 0,
         "last_updated": "2015/10/15",
         "license": "Unlicensed",
@@ -51,7 +51,7 @@
         "description": "Bears have evolved the ability to shapeshift into anything (or anyone) you can imagine! (Or maybe your eyesight is just really poor?) Either way, one wrong step could be your last in the randomly generated world of Super Bearland. Hunt those beasts down before they hunt you!",
         "category": ["game"],
         "console": ["3DS"],
-        "icon_index": 0,
+        "icon_index": 2,
         "sheet_index": 0,
         "last_updated": "2019/03/07",
         "license": "Unlicensed",
