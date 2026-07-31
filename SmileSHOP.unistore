@@ -10,7 +10,7 @@
     "bg_index": 1,
     "bg_sheet": 0,
     "revision": 1,
-    "version": 4
+    "version": 1
   },
   "storeContent": [
     {
@@ -22,7 +22,7 @@
         "console": ["3DS"],
         "icon_index": 0,
         "sheet_index": 0,
-        "last_updated": "2016",
+        "last_updated": "2015/10/15",
         "license": "Unlicensed",
         "version": "0.1.0"
       },
