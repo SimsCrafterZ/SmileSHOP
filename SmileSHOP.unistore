@@ -72,15 +72,15 @@
     },
     {
       "info": {
-        "title": "test",
-        "author": "test",
+        "title": "3D Parkour",
+        "author": "S1Meon",
         "description": "test",
         "category": ["game"],
         "console": ["3DS"],
         "icon_index": 2,
         "sheet_index": 0,
         "last_updated": "test",
-        "license": "test",
+        "license": "Unlicensed",
         "version": "test"
       },
       "test": [
