@@ -9,7 +9,7 @@
     "sheet": "universal-db.t3x",
     "bg_index": 1,
     "bg_sheet": 0,
-    "revision": 101,
+    "revision": 102,
     "version": 3
   },
   "storeContent": [
@@ -22,9 +22,9 @@
         "console": ["3DS"],
         "icon_index": 2,
         "sheet_index": 0,
-        "last_updated": "2015/10/15",
+        "last_updated": "2015-10-15",
         "license": "Unlicensed",
-        "version": "0.5.0"
+        "version": "v0.5.0"
       },
       "RAYCASTER": [
         {
@@ -53,9 +53,9 @@
         "console": ["3DS"],
         "icon_index": 2,
         "sheet_index": 0,
-        "last_updated": "2019/03/07",
+        "last_updated": "2019-03-07",
         "license": "Unlicensed",
-        "version": "2.0.0"
+        "version": "v2.0.0"
       },
       "BEARLAND": [
         {
@@ -79,9 +79,9 @@
         "console": ["3DS"],
         "icon_index": 2,
         "sheet_index": 0,
-        "last_updated": "test",
+        "last_updated": "2018-11-8",
         "license": "Unlicensed",
-        "version": "1.9"
+        "version": "v1.9.0"
       },
       "3D_PARKOUR": [
         {
