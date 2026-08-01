@@ -111,23 +111,23 @@
         },
         {
           "type": "downloadFile",
-          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour",
-          "output": "sdmc:/SmileSHOP/3D_PARKOUR"
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour/TPARKOURSKY",
+          "output": "sdmc:/SmileSHOP/3D_PARKOUR/TPARKOURSKY"
         },
         {
           "type": "downloadFile",
-          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour",
-          "output": "sdmc:/SmileSHOP/3D_PARKOUR"
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour/TPARKOURPRESETS",
+          "output": "sdmc:/SmileSHOP/3D_PARKOUR/TPARKOURPRESETS"
         },
         {
           "type": "downloadFile",
-          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour",
-          "output": "sdmc:/SmileSHOP/3D_PARKOUR"
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour/TPARKOURMUSIC",
+          "output": "sdmc:/SmileSHOP/3D_PARKOUR/TPARKOURMUSIC"
         },
         {
           "type": "downloadFile",
-          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour",
-          "output": "sdmc:/SmileSHOP/3D_PARKOUR"
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour/TPARKOUR",
+          "output": "sdmc:/SmileSHOP/3D_PARKOUR/TPARKOUR"
         },
         {
           "type": "downloadFile",
