@@ -72,7 +72,7 @@
     },
     {
       "info": {
-        "title": "3D Parkour (Not fully integrated, do not download!)",
+        "title": "3D Parkour",
         "author": "S1Meon",
         "description": "Dive into the ultimate parkour playground, a thrilling 3D adventure where your agility takes center stage. Powered by a custom engine with seamless physics integration, this game elevates parkour into an immersive art form. Traverse varied landscapes, filled with jumps, glides, and acrobatics. Test your skills against dynamic challenges like rotating blocks, zero-gravity zones, and springy trampolines, customizing the environment to your style. Enhanced by an intricate level editor, explore endless parkour possibilities. With a Japanese translation included, international players are warmly welcomed to discover the sheer joy of movement in a vibrant, physics-driven world.",
         "category": ["game"],
@@ -156,8 +156,8 @@
         },
         {
           "type": "downloadFile",
-          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour",
-          "output": "sdmc:/SmileSHOP/3D_PARKOUR"
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour/T_OLD_PARKOUR_1",
+          "output": "sdmc:/SmileSHOP/3D_PARKOUR/T_OLD_PARKOUR_1"
         }
       ]
     }
