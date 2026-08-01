@@ -131,28 +131,28 @@
         },
         {
           "type": "downloadFile",
-          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour",
-          "output": "sdmc:/SmileSHOP/3D_PARKOUR"
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour/T_OLD_SUPER_UI",
+          "output": "sdmc:/SmileSHOP/3D_PARKOUR/T_OLD_SUPER_UI"
         },
         {
           "type": "downloadFile",
-          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour",
-          "output": "sdmc:/SmileSHOP/3D_PARKOUR"
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour/T_OLD_PARKOUR_5",
+          "output": "sdmc:/SmileSHOP/3D_PARKOUR/T_OLD_PARKOUR_5"
         },
         {
           "type": "downloadFile",
-          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour",
-          "output": "sdmc:/SmileSHOP/3D_PARKOUR"
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour/T_OLD_PARKOUR_4",
+          "output": "sdmc:/SmileSHOP/3D_PARKOUR/T_OLD_PARKOUR_4"
         },
         {
           "type": "downloadFile",
-          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour",
-          "output": "sdmc:/SmileSHOP/3D_PARKOUR"
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour/T_OLD_PARKOUR_3",
+          "output": "sdmc:/SmileSHOP/3D_PARKOUR/T_OLD_PARKOUR_3"
         },
         {
           "type": "downloadFile",
-          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour",
-          "output": "sdmc:/SmileSHOP/3D_PARKOUR"
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour/T_OLD_PARKOUR_2",
+          "output": "sdmc:/SmileSHOP/3D_PARKOUR/T_OLD_PARKOUR_2"
         },
         {
           "type": "downloadFile",
