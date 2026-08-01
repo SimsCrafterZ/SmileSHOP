@@ -26,7 +26,7 @@
         "license": "Unlicensed",
         "version": "0.5.0"
       },
-      "Spooky Maze": [
+      "RAYCASTER": [
         {
           "type": "downloadFile",
           "file": "https://simscrafterz.github.io/SmileSHOP/files/spooky_maze/TSPOOKYMAZE.PRG",
@@ -57,7 +57,7 @@
         "license": "Unlicensed",
         "version": "2.0.0"
       },
-      "Super Bearland": [
+      "BEARLAND": [
         {
           "type": "downloadFile",
           "file": "https://simscrafterz.github.io/SmileSHOP/files/super_bearland/TBEARLAND",
@@ -83,31 +83,31 @@
         "license": "Unlicensed",
         "version": "1.9"
       },
-      "test": [
+      "3D_PARKOUR": [
         {
           "type": "downloadFile",
-          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour",
-          "output": "sdmc:/SmileSHOP/3D_PARKOUR"
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour/BLVL.SAMPLE",
+          "output": "sdmc:/SmileSHOP/3D_PARKOUR/BLVL.SAMPLE"
         },
         {
           "type": "downloadFile",
-          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour",
-          "output": "sdmc:/SmileSHOP/3D_PARKOUR"
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour/BSKY1",
+          "output": "sdmc:/SmileSHOP/3D_PARKOUR/BSKY1"
         },
         {
           "type": "downloadFile",
-          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour",
-          "output": "sdmc:/SmileSHOP/3D_PARKOUR"
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour/BSKY2",
+          "output": "sdmc:/SmileSHOP/3D_PARKOUR/BSKY2"
         },
         {
           "type": "downloadFile",
-          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour",
-          "output": "sdmc:/SmileSHOP/3D_PARKOUR"
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour/BSKY3",
+          "output": "sdmc:/SmileSHOP/3D_PARKOUR/BSKY3"
         },
         {
           "type": "downloadFile",
-          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour",
-          "output": "sdmc:/SmileSHOP/3D_PARKOUR"
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour/BSKY4",
+          "output": "sdmc:/SmileSHOP/3D_PARKOUR/BSKY4"
         },
         {
           "type": "downloadFile",
