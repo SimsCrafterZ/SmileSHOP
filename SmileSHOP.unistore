@@ -72,22 +72,92 @@
     },
     {
       "info": {
-        "title": "3D Parkour",
+        "title": "3D Parkour (Not fully integrated, do not download!)",
         "author": "S1Meon",
-        "description": "test",
+        "description": "Dive into the ultimate parkour playground, a thrilling 3D adventure where your agility takes center stage. Powered by a custom engine with seamless physics integration, this game elevates parkour into an immersive art form. Traverse varied landscapes, filled with jumps, glides, and acrobatics. Test your skills against dynamic challenges like rotating blocks, zero-gravity zones, and springy trampolines, customizing the environment to your style. Enhanced by an intricate level editor, explore endless parkour possibilities. With a Japanese translation included, international players are warmly welcomed to discover the sheer joy of movement in a vibrant, physics-driven world.",
         "category": ["game"],
         "console": ["3DS"],
         "icon_index": 2,
         "sheet_index": 0,
         "last_updated": "test",
         "license": "Unlicensed",
-        "version": "test"
+        "version": "1.9"
       },
       "test": [
         {
           "type": "downloadFile",
-          "file": "https://file.test",
-          "output": "sdmc:/file.test"
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour",
+          "output": "sdmc:/SmileSHOP/3D_PARKOUR"
+        },
+        {
+          "type": "downloadFile",
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour",
+          "output": "sdmc:/SmileSHOP/3D_PARKOUR"
+        },
+        {
+          "type": "downloadFile",
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour",
+          "output": "sdmc:/SmileSHOP/3D_PARKOUR"
+        },
+        {
+          "type": "downloadFile",
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour",
+          "output": "sdmc:/SmileSHOP/3D_PARKOUR"
+        },
+        {
+          "type": "downloadFile",
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour",
+          "output": "sdmc:/SmileSHOP/3D_PARKOUR"
+        },
+        {
+          "type": "downloadFile",
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour",
+          "output": "sdmc:/SmileSHOP/3D_PARKOUR"
+        },
+        {
+          "type": "downloadFile",
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour",
+          "output": "sdmc:/SmileSHOP/3D_PARKOUR"
+        },
+        {
+          "type": "downloadFile",
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour",
+          "output": "sdmc:/SmileSHOP/3D_PARKOUR"
+        },
+        {
+          "type": "downloadFile",
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour",
+          "output": "sdmc:/SmileSHOP/3D_PARKOUR"
+        },
+        {
+          "type": "downloadFile",
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour",
+          "output": "sdmc:/SmileSHOP/3D_PARKOUR"
+        },
+        {
+          "type": "downloadFile",
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour",
+          "output": "sdmc:/SmileSHOP/3D_PARKOUR"
+        },
+        {
+          "type": "downloadFile",
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour",
+          "output": "sdmc:/SmileSHOP/3D_PARKOUR"
+        },
+        {
+          "type": "downloadFile",
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour",
+          "output": "sdmc:/SmileSHOP/3D_PARKOUR"
+        },
+        {
+          "type": "downloadFile",
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour",
+          "output": "sdmc:/SmileSHOP/3D_PARKOUR"
+        },
+        {
+          "type": "downloadFile",
+          "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour",
+          "output": "sdmc:/SmileSHOP/3D_PARKOUR"
         }
       ]
     }
