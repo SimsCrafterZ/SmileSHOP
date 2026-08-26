@@ -67,7 +67,7 @@
           "type": "downloadFile",
           "file": "https://simscrafterz.github.io/SmileSHOP/files/super_bearland/BGRAPHICS",
           "output": "sdmc:/SmileSHOP/BEARLAND/BGRAPHICS"
-        }
+       }
       ]
     },
     {
@@ -158,6 +158,37 @@
           "type": "downloadFile",
           "file": "https://simscrafterz.github.io/SmileSHOP/files/3d_parkour/T_OLD_PARKOUR_1",
           "output": "sdmc:/SmileSHOP/3D_PARKOUR/T_OLD_PARKOUR_1"
+       }
+      ]
+    },
+    {
+      "info": {
+        "title": "BrokenBlox",
+        "author": "SimsCrafterZ",
+        "description": "B",
+        "category": ["game"],
+        "console": ["3DS"],
+        "icon_index": 2,
+        "sheet_index": 0,
+        "last_updated": "2026-08-26",
+        "license": "Unlicensed",
+        "version": "v0.1 beta"
+      },
+      "BROKENBLOX": [
+        {
+          "type": "downloadFile",
+          "file": "",
+          "output": "sdmc:/SmileSHOP/BROKENBLOX/TBROKENBLOX"
+        },
+        {
+          "type": "downloadFile",
+          "file": "",
+          "output": "sdmc:/SmileSHOP/BROKENBLOX/BBGBLOX"
+        },
+        {
+          "type": "downloadFile",
+          "file": "",
+          "output": "sdmc:/SmileSHOP/BROKENBLOX/BSPBLOX"
         }
       ]
     }
