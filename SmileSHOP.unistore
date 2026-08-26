@@ -9,7 +9,7 @@
     "sheet": "universal-db.t3x",
     "bg_index": 1,
     "bg_sheet": 0,
-    "revision": 103,
+    "revision": 104,
     "version": 3
   },
   "storeContent": [
@@ -172,7 +172,7 @@
         "sheet_index": 0,
         "last_updated": "2026-08-26",
         "license": "Unlicensed",
-        "version": "v0.1 beta"
+        "version": "v0.2 beta"
       },
       "BROKENBLOX": [
         {
