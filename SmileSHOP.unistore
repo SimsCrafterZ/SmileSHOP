@@ -177,17 +177,17 @@
       "BROKENBLOX": [
         {
           "type": "downloadFile",
-          "file": "",
+          "file": "https://github.com/SimsCrafterZ/BrokenBlox/releases/latest/download/TBROKENBLOX",
           "output": "sdmc:/SmileSHOP/BROKENBLOX/TBROKENBLOX"
         },
         {
           "type": "downloadFile",
-          "file": "",
+          "file": "https://github.com/SimsCrafterZ/BrokenBlox/releases/latest/download/BBGBLOX",
           "output": "sdmc:/SmileSHOP/BROKENBLOX/BBGBLOX"
         },
         {
           "type": "downloadFile",
-          "file": "",
+          "file": "https://github.com/SimsCrafterZ/BrokenBlox/releases/latest/download/BSPBLOX",
           "output": "sdmc:/SmileSHOP/BROKENBLOX/BSPBLOX"
         }
       ]
