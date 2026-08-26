@@ -9,7 +9,7 @@
     "sheet": "universal-db.t3x",
     "bg_index": 1,
     "bg_sheet": 0,
-    "revision": 102,
+    "revision": 103,
     "version": 3
   },
   "storeContent": [
@@ -165,7 +165,7 @@
       "info": {
         "title": "BrokenBlox",
         "author": "SimsCrafterZ",
-        "description": "B",
+        "description": "A brick-breaker game made with SmileBASIC 3.",
         "category": ["game"],
         "console": ["3DS"],
         "icon_index": 2,
