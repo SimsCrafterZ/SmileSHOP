@@ -9,7 +9,7 @@
     "sheet": "universal-db.t3x",
     "bg_index": 1,
     "bg_sheet": 0,
-    "revision": 104,
+    "revision": 105,
     "version": 3
   },
   "storeContent": [
@@ -170,9 +170,9 @@
         "console": ["3DS"],
         "icon_index": 2,
         "sheet_index": 0,
-        "last_updated": "2026-08-26",
+        "last_updated": "2026-09-07",
         "license": "Unlicensed",
-        "version": "v0.1 beta"
+        "version": "v0.2 beta"
       },
       "BROKENBLOX": [
         {
